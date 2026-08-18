@@ -12,6 +12,10 @@ This repository is curated by our educational team to provide parents and educat
 A practical checklist designed to help parents optimize physical and digital study environments for children (Nursery through Class X). 
 - **Full Article & Insights:** Read the complete guide on our official website: [Creating a Distraction-Free Study Environment for Your Child](https://doonvalleylucknow.com/pages/creating-a-distraction-free-study-environment-for-your-child-a-complete-guide-for-parents)
 
+### 2. [Parent's Guide & Checklist: Creating a Balanced Daily Routine](file:///D:/Codex/Tips/guides/creating-a-balanced-daily-routine.md)
+Learn how a well-structured daily routine balances academic study, physical activity, and screen boundaries.
+- **Full Article & Insights:** Read the complete guide on our official website: [Creating a Balanced Daily Routine for Students](https://doonvalleylucknow.com/pages/creating-a-balanced-daily-routine)
+
 ---
 
 ## 📂 Repository Structure
@@ -19,6 +23,7 @@ A practical checklist designed to help parents optimize physical and digital stu
 doon-valley-study-skills/
 ├── README.md
 ├── guides/
+│   ├── creating-a-balanced-daily-routine.md
 │   └── distraction-free-study-space-checklist.md
 └── references/
     └── academic-focus-resources.md
