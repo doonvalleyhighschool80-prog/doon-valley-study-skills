@@ -16,6 +16,10 @@ A practical checklist designed to help parents optimize physical and digital stu
 Learn how a well-structured daily routine balances academic study, physical activity, and screen boundaries.
 - **Full Article & Insights:** Read the complete guide on our official website: [Creating a Balanced Daily Routine for Students](https://doonvalleylucknow.com/pages/creating-a-balanced-daily-routine)
 
+### 3. [Parent's Guide & Checklist: Adjusting to School Time](file:///D:/Codex/Tips/guides/adjusting-to-school-time-guide.md)
+Practical suggestions to help children transition smoothly into school timings, wake up early, and minimize morning anxiety.
+- **Full Article & Insights:** Read the complete guide on our official website: [Helping Your Child Adjust to School Time: A Parent's Guide](https://doonvalleylucknow.com/pages/helping-your-child-adjust-to-school-time-a-parents-guide)
+
 ---
 
 ## 📂 Repository Structure
@@ -23,6 +27,7 @@ Learn how a well-structured daily routine balances academic study, physical acti
 doon-valley-study-skills/
 ├── README.md
 ├── guides/
+│   ├── adjusting-to-school-time-guide.md
 │   ├── creating-a-balanced-daily-routine.md
 │   └── distraction-free-study-space-checklist.md
 └── references/
