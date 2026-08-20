@@ -20,6 +20,10 @@ Learn how a well-structured daily routine balances academic study, physical acti
 Practical suggestions to help children transition smoothly into school timings, wake up early, and minimize morning anxiety.
 - **Full Article & Insights:** Read the complete guide on our official website: [Helping Your Child Adjust to School Time: A Parent's Guide](https://doonvalleylucknow.com/pages/helping-your-child-adjust-to-school-time-a-parents-guide)
 
+### 4. [Parent's Guide & Checklist: Helping Children Stay Organized](file:///D:/Codex/Tips/guides/helping-children-stay-organized.md)
+Practical tips and checklists for assigning storage spaces, building visual planners, and teaching time-management habits.
+- **Full Article & Insights:** Read the complete guide on our official website: [Helping Children Stay Organized: A Practical Guide for Parents](https://doonvalleylucknow.com/pages/helping-children-stay-organized-a-practical-guide-for-parents)
+
 ---
 
 ## 📂 Repository Structure
@@ -29,7 +33,8 @@ doon-valley-study-skills/
 ├── guides/
 │   ├── adjusting-to-school-time-guide.md
 │   ├── creating-a-balanced-daily-routine.md
-│   └── distraction-free-study-space-checklist.md
+│   ├── distraction-free-study-space-checklist.md
+│   └── helping-children-stay-organized.md
 └── references/
     └── academic-focus-resources.md
 ```
