@@ -24,6 +24,10 @@ Practical suggestions to help children transition smoothly into school timings, 
 Practical tips and checklists for assigning storage spaces, building visual planners, and teaching time-management habits.
 - **Full Article & Insights:** Read the complete guide on our official website: [Helping Children Stay Organized: A Practical Guide for Parents](https://doonvalleylucknow.com/pages/helping-children-stay-organized-a-practical-guide-for-parents)
 
+### 5. [Parent's Guide & Checklist: Building Good Morning Habits](file:///D:/Codex/Tips/guides/good-morning-habits-guide.md)
+Checklist guidelines for sleep targets, screen boundaries first thing in the morning, and repeatable morning task sequences.
+- **Full Article & Insights:** Read the complete guide on our official website: [Build Good Morning Habits in Your Child: A Guide for Parents](https://doonvalleylucknow.com/pages/build-good-morning-habits-in-your-child-a-guide-for-parents)
+
 ---
 
 ## 📂 Repository Structure
@@ -34,6 +38,7 @@ doon-valley-study-skills/
 │   ├── adjusting-to-school-time-guide.md
 │   ├── creating-a-balanced-daily-routine.md
 │   ├── distraction-free-study-space-checklist.md
+│   ├── good-morning-habits-guide.md
 │   └── helping-children-stay-organized.md
 └── references/
     └── academic-focus-resources.md
