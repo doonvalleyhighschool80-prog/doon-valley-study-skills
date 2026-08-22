@@ -28,6 +28,10 @@ Practical tips and checklists for assigning storage spaces, building visual plan
 Checklist guidelines for sleep targets, screen boundaries first thing in the morning, and repeatable morning task sequences.
 - **Full Article & Insights:** Read the complete guide on our official website: [Build Good Morning Habits in Your Child: A Guide for Parents](https://doonvalleylucknow.com/pages/build-good-morning-habits-in-your-child-a-guide-for-parents)
 
+### 6. [Parent's Guide & Checklist: Helping Children Overcome Laziness](file:///D:/Codex/Tips/guides/overcoming-laziness-guide.md)
+Checklist for identifying the root causes of avoidance, setting motivating sub-goals, and encouraging physical movement.
+- **Full Article & Insights:** Read the complete guide on our official website: [Helping Children Overcome Laziness: A Practical Guide for Parents](https://doonvalleylucknow.com/pages/helping-children-overcome-laziness-a-practical-guide-for-parents)
+
 ---
 
 ## 📂 Repository Structure
@@ -39,7 +43,8 @@ doon-valley-study-skills/
 │   ├── creating-a-balanced-daily-routine.md
 │   ├── distraction-free-study-space-checklist.md
 │   ├── good-morning-habits-guide.md
-│   └── helping-children-stay-organized.md
+│   ├── helping-children-stay-organized.md
+│   └── overcoming-laziness-guide.md
 └── references/
     └── academic-focus-resources.md
 ```
