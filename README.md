@@ -32,6 +32,10 @@ Checklist guidelines for sleep targets, screen boundaries first thing in the mor
 Checklist for identifying the root causes of avoidance, setting motivating sub-goals, and encouraging physical movement.
 - **Full Article & Insights:** Read the complete guide on our official website: [Helping Children Overcome Laziness: A Practical Guide for Parents](https://doonvalleylucknow.com/pages/helping-children-overcome-laziness-a-practical-guide-for-parents)
 
+### 7. [Parent's Guide & Checklist: Creating a Learning Corner at Home](file:///D:/Codex/Tips/guides/learning-corner-guide.md)
+Guidelines for setting up a consistent quiet spot, lighting, ergonomics, and personalizing a learning corner with storybooks and resources.
+- **Full Article & Insights:** Read the complete guide on our official website: [Creating a Learning Corner at Home: A Guide for Parents](https://doonvalleylucknow.com/pages/creating-a-learning-corner-at-home-a-guide-for-parents)
+
 ---
 
 ## 📂 Repository Structure
@@ -44,6 +48,7 @@ doon-valley-study-skills/
 │   ├── distraction-free-study-space-checklist.md
 │   ├── good-morning-habits-guide.md
 │   ├── helping-children-stay-organized.md
+│   ├── learning-corner-guide.md
 │   └── overcoming-laziness-guide.md
 └── references/
     └── academic-focus-resources.md
