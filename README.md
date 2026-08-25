@@ -36,6 +36,10 @@ Checklist for identifying the root causes of avoidance, setting motivating sub-g
 Guidelines for setting up a consistent quiet spot, lighting, ergonomics, and personalizing a learning corner with storybooks and resources.
 - **Full Article & Insights:** Read the complete guide on our official website: [Creating a Learning Corner at Home: A Guide for Parents](https://doonvalleylucknow.com/pages/creating-a-learning-corner-at-home-a-guide-for-parents)
 
+### 8. [Parent's Guide & Checklist: Building Self-Belief in Children](file:///D:/Codex/Tips/guides/self-belief-guide.md)
+Checklist for nurturing self-esteem, praising effort over outcome, giving healthy choices, and building confidence via peer and leadership roles.
+- **Full Article & Insights:** Read the complete guide on our official website: [Teaching Children Self-Belief: A Guide for Parents](https://doonvalleylucknow.com/pages/teaching-children-self-belief-a-guide-for-parents)
+
 ---
 
 ## 📂 Repository Structure
@@ -49,7 +53,8 @@ doon-valley-study-skills/
 │   ├── good-morning-habits-guide.md
 │   ├── helping-children-stay-organized.md
 │   ├── learning-corner-guide.md
-│   └── overcoming-laziness-guide.md
+│   ├── overcoming-laziness-guide.md
+│   └── self-belief-guide.md
 └── references/
     └── academic-focus-resources.md
 ```
