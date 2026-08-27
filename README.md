@@ -40,6 +40,10 @@ Guidelines for setting up a consistent quiet spot, lighting, ergonomics, and per
 Checklist for nurturing self-esteem, praising effort over outcome, giving healthy choices, and building confidence via peer and leadership roles.
 - **Full Article & Insights:** Read the complete guide on our official website: [Teaching Children Self-Belief: A Guide for Parents](https://doonvalleylucknow.com/pages/teaching-children-self-belief-a-guide-for-parents)
 
+### 9. [Parent's Guide & Checklist: Teaching Time Management Skills to Your Child](file:///D:/Codex/Tips/guides/time-management-guide.md)
+Checklist for establishing basic routines, visual planners, prioritizing tasks, setting study timers, and allowing natural consequences.
+- **Full Article & Insights:** Read the complete guide on our official website: [Teaching Time Management Skills to Your Child](https://doonvalleylucknow.com/pages/teaching-time-management-skills-to-your-child)
+
 ---
 
 ## 📂 Repository Structure
@@ -54,7 +58,8 @@ doon-valley-study-skills/
 │   ├── helping-children-stay-organized.md
 │   ├── learning-corner-guide.md
 │   ├── overcoming-laziness-guide.md
-│   └── self-belief-guide.md
+│   ├── self-belief-guide.md
+│   └── time-management-guide.md
 └── references/
     └── academic-focus-resources.md
 ```
