@@ -44,6 +44,10 @@ Checklist for nurturing self-esteem, praising effort over outcome, giving health
 Checklist for establishing basic routines, visual planners, prioritizing tasks, setting study timers, and allowing natural consequences.
 - **Full Article & Insights:** Read the complete guide on our official website: [Teaching Time Management Skills to Your Child](https://doonvalleylucknow.com/pages/teaching-time-management-skills-to-your-child)
 
+### 10. [Parent's Guide & Checklist: Positive Discipline Without Punishment](file:///D:/Codex/Tips/guides/positive-discipline-guide.md)
+Checklist for implementing gentle-parenting structures, understanding root behaviors, establishing logical consequences, and avoiding fear-based obedience.
+- **Full Article & Insights:** Read the complete guide on our official website: [Positive Discipline Without Punishment: A Guide for Parents](https://doonvalleylucknow.com/pages/positive-discipline-without-punishment)
+
 ---
 
 ## 📂 Repository Structure
@@ -58,6 +62,7 @@ doon-valley-study-skills/
 │   ├── helping-children-stay-organized.md
 │   ├── learning-corner-guide.md
 │   ├── overcoming-laziness-guide.md
+│   ├── positive-discipline-guide.md
 │   ├── self-belief-guide.md
 │   └── time-management-guide.md
 └── references/
