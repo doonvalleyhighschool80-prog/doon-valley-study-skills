@@ -48,6 +48,10 @@ Checklist for establishing basic routines, visual planners, prioritizing tasks, 
 Checklist for implementing gentle-parenting structures, understanding root behaviors, establishing logical consequences, and avoiding fear-based obedience.
 - **Full Article & Insights:** Read the complete guide on our official website: [Positive Discipline Without Punishment: A Guide for Parents](https://doonvalleylucknow.com/pages/positive-discipline-without-punishment)
 
+### 11. [Parent's Guide & Checklist: Encouraging Early Reading Habits](file:///D:/Codex/Tips/guides/early-reading-habits-guide.md)
+Checklist for starting early reading habits, designing a cozy reading corner, letting kids choose books, and role modeling reading.
+- **Full Article & Insights:** Read the complete guide on our official website: [Encouraging Early Reading Habits in Children](https://doonvalleylucknow.com/pages/encouraging-early-reading-habits-in-children)
+
 ---
 
 ## 📂 Repository Structure
@@ -58,6 +62,7 @@ doon-valley-study-skills/
 │   ├── adjusting-to-school-time-guide.md
 │   ├── creating-a-balanced-daily-routine.md
 │   ├── distraction-free-study-space-checklist.md
+│   ├── early-reading-habits-guide.md
 │   ├── good-morning-habits-guide.md
 │   ├── helping-children-stay-organized.md
 │   ├── learning-corner-guide.md
