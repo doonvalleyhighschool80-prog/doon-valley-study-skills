@@ -52,6 +52,10 @@ Checklist for implementing gentle-parenting structures, understanding root behav
 Checklist for starting early reading habits, designing a cozy reading corner, letting kids choose books, and role modeling reading.
 - **Full Article & Insights:** Read the complete guide on our official website: [Encouraging Early Reading Habits in Children](https://doonvalleylucknow.com/pages/encouraging-early-reading-habits-in-children)
 
+### 12. [Parent's Guide & Checklist: Healthy Eating Habits That Improve Learning](file:///D:/Codex/Tips/guides/healthy-eating-habits-guide.md)
+Checklist for establishing balanced breakfasts, brain-boosting nutrition, smart study snacks, and consistent hydration to optimize learning focus.
+- **Full Article & Insights:** Read the complete guide on our official website: [Healthy Eating Habits That Improve Learning](https://doonvalleylucknow.com/pages/healthy-eating-habits-that-improve-learning)
+
 ---
 
 ## 📂 Repository Structure
@@ -64,6 +68,7 @@ doon-valley-study-skills/
 │   ├── distraction-free-study-space-checklist.md
 │   ├── early-reading-habits-guide.md
 │   ├── good-morning-habits-guide.md
+│   ├── healthy-eating-habits-guide.md
 │   ├── helping-children-stay-organized.md
 │   ├── learning-corner-guide.md
 │   ├── overcoming-laziness-guide.md
