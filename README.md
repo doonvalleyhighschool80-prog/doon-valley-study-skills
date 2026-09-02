@@ -56,6 +56,10 @@ Checklist for starting early reading habits, designing a cozy reading corner, le
 Checklist for establishing balanced breakfasts, brain-boosting nutrition, smart study snacks, and consistent hydration to optimize learning focus.
 - **Full Article & Insights:** Read the complete guide on our official website: [Healthy Eating Habits That Improve Learning](https://doonvalleylucknow.com/pages/healthy-eating-habits-that-improve-learning)
 
+### 13. [Parent's Guide & Checklist: Supporting Mental Well-Being in Children](file:///D:/Codex/Tips/guides/supporting-mental-wellbeing-guide.md)
+Checklist for fostering open communication, observing behavioral signals, protecting unstructured downtime, and collaborating with school guidance support.
+- **Full Article & Insights:** Read the complete guide on our official website: [Supporting Mental Well-Being in Children](https://doonvalleylucknow.com/pages/supporting-mental-well-being)
+
 ---
 
 ## 📂 Repository Structure
@@ -74,6 +78,7 @@ doon-valley-study-skills/
 │   ├── overcoming-laziness-guide.md
 │   ├── positive-discipline-guide.md
 │   ├── self-belief-guide.md
+│   ├── supporting-mental-wellbeing-guide.md
 │   └── time-management-guide.md
 └── references/
     └── academic-focus-resources.md
