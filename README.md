@@ -60,6 +60,10 @@ Checklist for establishing balanced breakfasts, brain-boosting nutrition, smart 
 Checklist for fostering open communication, observing behavioral signals, protecting unstructured downtime, and collaborating with school guidance support.
 - **Full Article & Insights:** Read the complete guide on our official website: [Supporting Mental Well-Being in Children](https://doonvalleylucknow.com/pages/supporting-mental-well-being)
 
+### 14. [Parent's Guide & Checklist: Developing Fine Motor Skills Through Play](file:///D:/Codex/Tips/guides/fine-motor-skills-guide.md)
+Checklist for developing hand strength, pincer grip, scissors control, playdough/beading activities, and self-care independence.
+- **Full Article & Insights:** Read the complete guide on our official website: [Developing Fine Motor Skills Through Play](https://doonvalleylucknow.com/pages/developing-fine-motor-skills-through-play)
+
 ---
 
 ## 📂 Repository Structure
@@ -71,6 +75,7 @@ doon-valley-study-skills/
 │   ├── creating-a-balanced-daily-routine.md
 │   ├── distraction-free-study-space-checklist.md
 │   ├── early-reading-habits-guide.md
+│   ├── fine-motor-skills-guide.md
 │   ├── good-morning-habits-guide.md
 │   ├── healthy-eating-habits-guide.md
 │   ├── helping-children-stay-organized.md
