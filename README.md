@@ -64,6 +64,10 @@ Checklist for fostering open communication, observing behavioral signals, protec
 Checklist for developing hand strength, pincer grip, scissors control, playdough/beading activities, and self-care independence.
 - **Full Article & Insights:** Read the complete guide on our official website: [Developing Fine Motor Skills Through Play](https://doonvalleylucknow.com/pages/developing-fine-motor-skills-through-play)
 
+### 15. [Parent's Guide & Checklist: The Importance of Sleep for Growing Children](file:///D:/Codex/Tips/guides/importance-of-sleep-guide.md)
+Checklist for establishing age-based sleep hours, pre-bedtime wind-down routines, evening screen boundaries, and optimal sleep environments.
+- **Full Article & Insights:** Read the complete guide on our official website: [The Importance of Sleep for Growing Children](https://doonvalleylucknow.com/pages/the-importance-of-sleep-for-growing-children)
+
 ---
 
 ## 📂 Repository Structure
@@ -79,6 +83,7 @@ doon-valley-study-skills/
 │   ├── good-morning-habits-guide.md
 │   ├── healthy-eating-habits-guide.md
 │   ├── helping-children-stay-organized.md
+│   ├── importance-of-sleep-guide.md
 │   ├── learning-corner-guide.md
 │   ├── overcoming-laziness-guide.md
 │   ├── positive-discipline-guide.md
