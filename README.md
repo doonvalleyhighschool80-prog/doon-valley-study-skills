@@ -68,6 +68,10 @@ Checklist for developing hand strength, pincer grip, scissors control, playdough
 Checklist for establishing age-based sleep hours, pre-bedtime wind-down routines, evening screen boundaries, and optimal sleep environments.
 - **Full Article & Insights:** Read the complete guide on our official website: [The Importance of Sleep for Growing Children](https://doonvalleylucknow.com/pages/the-importance-of-sleep-for-growing-children)
 
+### 16. [Parent's Guide & Checklist: Helping Children Manage Emotions](file:///D:/Codex/Tips/guides/managing-emotions-guide.md)
+Checklist for building emotional vocabulary, remaining calm during meltdowns, validating feelings before problem-solving, and teaching coping mechanisms.
+- **Full Article & Insights:** Read the complete guide on our official website: [Helping Children Manage Emotions](https://doonvalleylucknow.com/pages/helping-children-manage-emotions)
+
 ---
 
 ## 📂 Repository Structure
@@ -85,6 +89,7 @@ doon-valley-study-skills/
 │   ├── helping-children-stay-organized.md
 │   ├── importance-of-sleep-guide.md
 │   ├── learning-corner-guide.md
+│   ├── managing-emotions-guide.md
 │   ├── overcoming-laziness-guide.md
 │   ├── positive-discipline-guide.md
 │   ├── self-belief-guide.md
