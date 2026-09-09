@@ -72,6 +72,10 @@ Checklist for establishing age-based sleep hours, pre-bedtime wind-down routines
 Checklist for building emotional vocabulary, remaining calm during meltdowns, validating feelings before problem-solving, and teaching coping mechanisms.
 - **Full Article & Insights:** Read the complete guide on our official website: [Helping Children Manage Emotions](https://doonvalleylucknow.com/pages/helping-children-manage-emotions)
 
+### 17. [Parent's Guide & Checklist: Helping Children Build Independence](file:///D:/Codex/Tips/guides/building-independence-guide.md)
+Checklist for assigning age-appropriate daily tasks, teaching time ownership, allowing natural consequences, and supporting emotional self-reliance.
+- **Full Article & Insights:** Read the complete guide on our official website: [Helping Children Build Independence](https://doonvalleylucknow.com/pages/helping-children-build-independence-a-parents-guide-to-raising-confident-self-reliant-kids)
+
 ---
 
 ## 📂 Repository Structure
@@ -80,6 +84,7 @@ doon-valley-study-skills/
 ├── README.md
 ├── guides/
 │   ├── adjusting-to-school-time-guide.md
+│   ├── building-independence-guide.md
 │   ├── creating-a-balanced-daily-routine.md
 │   ├── distraction-free-study-space-checklist.md
 │   ├── early-reading-habits-guide.md
