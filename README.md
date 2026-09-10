@@ -76,6 +76,10 @@ Checklist for building emotional vocabulary, remaining calm during meltdowns, va
 Checklist for assigning age-appropriate daily tasks, teaching time ownership, allowing natural consequences, and supporting emotional self-reliance.
 - **Full Article & Insights:** Read the complete guide on our official website: [Helping Children Build Independence](https://doonvalleylucknow.com/pages/helping-children-build-independence-a-parents-guide-to-raising-confident-self-reliant-kids)
 
+### 18. [Parent's Guide & Checklist: Teaching Sharing and Caring to Children](file:///D:/Codex/Tips/guides/teaching-sharing-and-caring-guide.md)
+Checklist for building empathy, defining concrete sharing/caring behaviors, modeling generosity at home, and nurturing social-emotional intelligence.
+- **Full Article & Insights:** Read the complete guide on our official website: [Teaching Sharing and Caring to Children](https://doonvalleylucknow.com/pages/teaching-sharing-and-caring-building-compassionate-learners-for-tomorrow)
+
 ---
 
 ## 📂 Repository Structure
@@ -99,6 +103,7 @@ doon-valley-study-skills/
 │   ├── positive-discipline-guide.md
 │   ├── self-belief-guide.md
 │   ├── supporting-mental-wellbeing-guide.md
+│   ├── teaching-sharing-and-caring-guide.md
 │   └── time-management-guide.md
 └── references/
     └── academic-focus-resources.md
