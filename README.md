@@ -80,6 +80,10 @@ Checklist for assigning age-appropriate daily tasks, teaching time ownership, al
 Checklist for building empathy, defining concrete sharing/caring behaviors, modeling generosity at home, and nurturing social-emotional intelligence.
 - **Full Article & Insights:** Read the complete guide on our official website: [Teaching Sharing and Caring to Children](https://doonvalleylucknow.com/pages/teaching-sharing-and-caring-building-compassionate-learners-for-tomorrow)
 
+### 19. [Parent's Guide & Checklist: Teaching Gratitude and Appreciation to Children](file:///D:/Codex/Tips/guides/teaching-gratitude-and-appreciation-guide.md)
+Checklist for establishing reflective daily practices, modeling thankfulness, praising effort over results, and fostering resilience.
+- **Full Article & Insights:** Read the complete guide on our official website: [Teaching Gratitude and Appreciation to Children](https://doonvalleylucknow.com/pages/teaching-gratitude-and-appreciation-raising-children-who-notice-the-good)
+
 ---
 
 ## 📂 Repository Structure
@@ -103,6 +107,7 @@ doon-valley-study-skills/
 │   ├── positive-discipline-guide.md
 │   ├── self-belief-guide.md
 │   ├── supporting-mental-wellbeing-guide.md
+│   ├── teaching-gratitude-and-appreciation-guide.md
 │   ├── teaching-sharing-and-caring-guide.md
 │   └── time-management-guide.md
 └── references/
