@@ -84,6 +84,10 @@ Checklist for building empathy, defining concrete sharing/caring behaviors, mode
 Checklist for establishing reflective daily practices, modeling thankfulness, praising effort over results, and fostering resilience.
 - **Full Article & Insights:** Read the complete guide on our official website: [Teaching Gratitude and Appreciation to Children](https://doonvalleylucknow.com/pages/teaching-gratitude-and-appreciation-raising-children-who-notice-the-good)
 
+### 20. [Parent's Guide & Checklist: Building Listening Skills at Home](file:///D:/Codex/Tips/guides/building-listening-skills-guide.md)
+Checklist for mastering the 4 pillars of listening (attention, comprehension, retention, response), home practice games, reflection prompts, and school co-curricular integration.
+- **Full Article & Insights:** Read the complete guide on our official website: [Building Listening Skills at Home: A Foundation for Better Communication](https://doonvalleylucknow.com/pages/building-listening-skills-at-home-a-foundation-for-better-communication)
+
 ---
 
 ## 📂 Repository Structure
@@ -93,6 +97,7 @@ doon-valley-study-skills/
 ├── guides/
 │   ├── adjusting-to-school-time-guide.md
 │   ├── building-independence-guide.md
+│   ├── building-listening-skills-guide.md
 │   ├── creating-a-balanced-daily-routine.md
 │   ├── distraction-free-study-space-checklist.md
 │   ├── early-reading-habits-guide.md
